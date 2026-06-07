@@ -125,7 +125,7 @@ AI-App-Starter-Kit/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/AI-App-Starter-Kit.git
+git clone https://github.com/dlittle-source/AI-App-Starter-Kit.git
 ```
 
 ---
@@ -275,13 +275,36 @@ Future versions may include:
 
 ---
 
+
+# 🚀 Complete Starter Kit
+
+Want the complete package?
+
+The premium version includes:
+
+- Full source code
+- Docker configuration
+- Installation Guide PDF
+- AI Fundamentals Guide
+- Project documentation
+
+👉 **Download the Complete AI App Starter Kit**
+
+https://demarkocloud.gumroad.com/l/ngskrv
+
+---
+
 # Author
 
-Built by Demarko Little
+**Demarko Little**
+
+Cloud Infrastructure Engineer  
+DevOps Engineer  
+AI Platform Builder
 
 ---
 
 # License
 
 MIT License
->>>>>>> 2c35437 (updated README file)
+
