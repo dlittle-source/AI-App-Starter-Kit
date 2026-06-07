@@ -290,7 +290,7 @@ The premium version includes:
 
 👉 **Download the Complete AI App Starter Kit**
 
-https://demarkocloud.gumroad.com/l/ngskrv
+**https://demarkocloud.gumroad.com/l/ngskrv**
 
 ---
 
